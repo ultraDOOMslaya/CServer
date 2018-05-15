@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\ultradoomslaya\documents\visual studio 2015\projects\chatserverenet\chatserverenet\main.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\ultradoomslaya\documents\visual studio 2015\projects\chatserverenet\chatserverenet\main.cpp(73): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'void *'
+c:\users\ultradoomslaya\documents\visual studio 2015\projects\chatserverenet\chatserverenet\main.cpp(92): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+c:\users\ultradoomslaya\documents\visual studio 2015\projects\chatserverenet\chatserverenet\main.cpp(102): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+  ChatServerENet.vcxproj -> C:\Users\UltraDOOMSlaya\documents\visual studio 2015\Projects\ChatServerENet\Debug\ChatServerENet.exe
+  ChatServerENet.vcxproj -> C:\Users\UltraDOOMSlaya\documents\visual studio 2015\Projects\ChatServerENet\Debug\ChatServerENet.pdb (Full PDB)

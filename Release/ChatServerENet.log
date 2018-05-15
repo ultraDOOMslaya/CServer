@@ -1,0 +1,14 @@
+﻿  main.cpp
+main.cpp(108): warning C4018: '<': signed/unsigned mismatch
+main.cpp(127): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'void *'
+  Generating code
+  All 77 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+enet.lib(win32.o) : error LNK2026: module unsafe for SAFESEH image.
+enet.lib(peer.o) : error LNK2026: module unsafe for SAFESEH image.
+enet.lib(host.o) : error LNK2026: module unsafe for SAFESEH image.
+enet.lib(protocol.o) : error LNK2026: module unsafe for SAFESEH image.
+enet.lib(packet.o) : error LNK2026: module unsafe for SAFESEH image.
+enet.lib(callbacks.o) : error LNK2026: module unsafe for SAFESEH image.
+enet.lib(list.o) : error LNK2026: module unsafe for SAFESEH image.
+c:\users\ultradoomslaya\documents\visual studio 2015\Projects\ChatServerENet\Release\ChatServerENet.exe : fatal error LNK1281: Unable to generate SAFESEH image.

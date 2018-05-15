@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="ENet">
+      <UniqueIdentifier>{04bc9350-b17f-4bb8-ba12-2a3f9d9e3f28}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\callbacks.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\enet.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\list.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\protocol.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\time.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\types.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\unix.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\utility.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\..\Desktop\OGRE-1.9\enet\include\enet\win32.h">
+      <Filter>ENet</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
